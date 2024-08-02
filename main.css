@@ -1,0 +1,81 @@
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 100px;
+    background-color: rgb(255, 255, 255); 
+    border-radius: 55px;
+    box-shadow: 10px rgba(5, 5, 5,0.3); 
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+input[type="text"] {
+    width: 89%;
+    padding: 5px;
+    margin: 8px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    text-align: center;
+}
+
+button {
+    background-color: #0d3663;
+    color: #ffffff;
+    border: none;
+    padding: 10px 29px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.weather-info {
+    margin-top: 200px;
+}
+
+footer { 
+
+    font-size: 25px;
+    font-size-adjust:0.5;
+    font-weight: 32px;
+    font-style: normal;
+    color: #434e81;
+    font-family: robotic, selif; 
+    size-adjust: 100px ;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+      /* background-color: #white; */
+  
+    background-image: url('Screenshot 2024-08-02 094233.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90vh; /* Set the height to fill the viewport */
+    margin: 0; /* Remove default margin */
+    padding: 10; 
+  }
+
+  footer {
+    font-family:'Robotic', serif, sans-serif;
+    font-size: 30px;
+    font-size-adjust:1;
+    font-weight: 32px;
+    font-style: normal;
+    color: #000000;
+    size-adjust: 500px ;
+    text-align: center;
+    margin: 0 auto;
+}
